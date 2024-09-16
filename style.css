@@ -1,0 +1,49 @@
+body {
+    background-color: #46026e;
+    color: white;
+
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+    text-align: center;
+    font-size: 25px;
+    margin-right: 5%;
+    margin-left: 10%;
+
+
+}
+
+button {
+    background-color: #50056b;
+    color: rgb(39, 242, 8);
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
+
+main {
+    text-align: center;
+    max-width: 90%;
+}
+
+img {
+    max-width: 90%;
+}
+
+
+
+
+
